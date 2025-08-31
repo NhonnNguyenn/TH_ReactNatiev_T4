@@ -1,7 +1,7 @@
 {
   "name": "async-exercises-week02",
   "version": "1.0.0",
-  "description": "Giải bài tập Async/Await & Promise (TypeScript) - chuẩn để chạy trên VSCode / Node",
+  "description": "Giải bài tập Async/Await & Promise",
   "main": "src/index.ts",
   "scripts": {
     "start": "npx ts-node src/index.ts",

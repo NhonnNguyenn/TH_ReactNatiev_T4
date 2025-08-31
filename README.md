@@ -1,11 +1,10 @@
 
 # Async Exercises (TypeScript) - Week02
-## Hướng dẫn sử dụng (trên máy của bạn)
+## Hướng dẫn sử dụng 
    ```bash
    npm install
    ```
-   (các devDependencies chỉ để chạy `ts-node` để test nhanh).
-3. Chạy từng bài bằng `ts-node`:
+ Chạy từng bài bằng `ts-node`:
    ```bash
    npx ts-node src/exercises/ex1.ts
    ```
